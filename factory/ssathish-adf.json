@@ -1,0 +1,15 @@
+{
+	"name": "ssathish-adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6dd782e9-4447-4fe2-996a-9abcdb261667",
+		"tenantId": "d0b40bfb-545c-48fe-b177-15894c7ed195"
+	}
+}
